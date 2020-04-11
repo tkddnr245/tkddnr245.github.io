@@ -1,0 +1,32 @@
+body{
+    background-color: lightgray;
+}
+
+.container {
+    background-color: white;
+    padding: 10px;
+    margin: 20px;
+}
+
+.first-row img {
+    border-radius: 100%;
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+}
+
+.long-height {
+    height: 2000px;
+}
+
+.first-row{
+    display: flex;
+}
+
+.first-row .title{
+    font-weight: 500;
+}
+
+.first-row .follower{
+    color: gray;
+}
