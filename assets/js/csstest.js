@@ -5,7 +5,6 @@ var age2 = 20
 console.log(age, age2)
 
 function plus ( a, b )
-
 {
     return a+b
 }
